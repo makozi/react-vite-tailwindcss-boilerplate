@@ -1,4 +1,7 @@
-![react-vite-tailwindcss-boilerplate](https://user-images.githubusercontent.com/16243531/217138979-b854309c-4742-4275-a705-f9fec5158217.jpg)
+
+
+<img width="868" height="487" alt="{FAF978DD-2B73-4E87-B226-BEF872EDDF31}" src="https://github.com/user-attachments/assets/36ef6224-3e61-47aa-8b1e-bf0504aa5f6a" />
+
 
 # React Tailwindcss Boilerplate build with Vite
 
